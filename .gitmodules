@@ -1,0 +1,6 @@
+[submodule "orcae"]
+	path = orcae
+	url = https://gitlab.psb.ugent.be/beg-orcae/orcae.git
+[submodule "instances"]
+	path = instances
+	url = https://gitlab.psb.ugent.be/beg-orcae/orcae-instances.git
